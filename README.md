@@ -31,7 +31,7 @@ Certifications
 
 <h2> 🤳 Certifications:</h2>
 
-<img src="https://imgur.com/a/WE5Ndoh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="<img src="https://imgur.com/a/WE5Ndoh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>">
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://imgur.com/a/WE5Ndoh" />]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
