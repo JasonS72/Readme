@@ -19,6 +19,17 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> Certifications:</h2>
-<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <br> 
-<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> <img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" />
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /><br/>
+
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" /> 
+                                                                                                                                                                                                                     
