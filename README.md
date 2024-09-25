@@ -14,7 +14,7 @@
 - <b>My Cloud Project</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
  - <b>Testout Labs</b>
-   - [LinuxPro]- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
+   - LinuxPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
  
 <h2>📑 Education </h2>
 
