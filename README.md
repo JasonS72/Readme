@@ -40,4 +40,7 @@
 <img src="https://i.imgur.com/cSKmMqq.png" width="60px" align="left" /> 
 <img src="https://i.imgur.com/dxnlhz8.png" width="60px" align="left" /> 
 <img src="https://i.imgur.com/XAovtB4.png" width="60px" align="left" /> 
+<img src="https://i.imgur.com/EQ2vBLa.png" width="60px" align="left" />
+<img src="https://i.imgur.com/TcOYW1N.png" width="60px" align="left" />
+<img src="https://i.imgur.com/gsfel9y.png" width="60px" align="left" />
                                                                                                                                                                                                                      
