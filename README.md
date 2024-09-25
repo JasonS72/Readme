@@ -25,7 +25,7 @@
   
 - <b>Certificate in Digital Forensic Investigation (In Progress, 50% complete, eta 2025)</b>
 
-- <b>A.A.S. in Culinary Arts (Weird to find that here right?.....but I will bring you food if you hire me!)</b>
+- <b>A.A.S. in Culinary Arts (Weird to find that here right?.....but I might bring you food if you hire me!)</b>
 
 <h2>🏆 Certifications:</h2>
 
@@ -38,7 +38,6 @@
 <img src="https://i.imgur.com/oI1FgQe.png" width="60px" align="left" /> 
 <img src="https://i.imgur.com/4EFRh3m.png" width="60px" align="left" /> 
 <img src="https://i.imgur.com/cSKmMqq.png" width="60px" align="left" /> 
-<img src="https://i.imgur.com/9emz5Kj.png" width="60px" align="left" />
 <img src="https://i.imgur.com/dxnlhz8.png" width="60px" align="left" /> 
 <img src="https://i.imgur.com/XAovtB4.png" width="60px" align="left" /> 
                                                                                                                                                                                                                      
