@@ -16,7 +16,7 @@
    - [LinuxPro](https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
    - [NetworkPro](https://github.com/H0UND3R5/Testout-Labs/blob/main/NetworkPro.pdf)
    - [SecurityPro](https://github.com/H0UND3R5/Testout-Labs/blob/main/SecurityPro.pdf)
-<h2>📑 Education </h2>
+<h2>📑 Education </h2> - [All Things WGU](https://github.com/H0UND3R5/WGU)
 
 - <b>B.S. in Cybersecurity and Information Assurance, Western Governor's University </b>
  
