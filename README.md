@@ -29,7 +29,7 @@
 
 <h2>🏆 Certifications:</h2>
 
-<img src=https://imgur.com/zchGXfZ.png" width="60px" align="left" />
+<img src="https://i.imgur.com/RdocYaH.png" width="60px" align="left" />
 <img src="https://i.imgur.com/NXExn7h.png" width="60px" align="left" /> 
 <img src="https://i.imgur.com/cD5Ud4V.png" width="60px" align="left" /> 
 <img src="https://i.imgur.com/t8XOupI.png" width="60px" align="left" /> 
