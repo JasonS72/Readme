@@ -14,8 +14,7 @@
 - <b>My Cloud Project</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
  - <b>Testout Labs</b>
-  - [I did 3 certifications through testout that all had significant lab components. If you can get a discount code, TestOut is a great value for labs](https://w3.testout.com/courseware-catalog)
-    LinuxPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
+  - LinuxPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
  
 <h2>📑 Education </h2>
 
