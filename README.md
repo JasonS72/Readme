@@ -16,12 +16,12 @@
    - [LinuxPro](https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
    - [NetworkPro](https://github.com/H0UND3R5/Testout-Labs/blob/main/NetworkPro.pdf)
    - [SecurityPro](https://github.com/H0UND3R5/Testout-Labs/blob/main/SecurityPro.pdf)
-<h2>📑 Education </h2> - [All Things WGU](https://github.com/H0UND3R5/WGU)
+<h2>📑 Education </h2> 
 
-- <b>B.S. in Cybersecurity and Information Assurance, Western Governor's University </b>
+- <b>B.S. in Cybersecurity and Information Assurance, Western Governor's University [All About WGU](https://github.com/H0UND3R5/WGU)</b>
  
 - <b>M.S. in Cybersecurity and Information Assurance, Western Governor's University (In Progress, 40% complete, eta 2025) </b>
-  [All Things WGU](https://github.com/H0UND3R5/WGU)
+  
 - <b>Certificate in Digital Forensic Investigation (In Progress, 50% complete, eta 2025)</b>
 
 - <b>A.A.S. in Culinary Arts (Weird to find that here right?.....but if you hire me I might bring you food!)</b>
