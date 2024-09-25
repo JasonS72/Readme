@@ -15,7 +15,8 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
  - <b>Testout Labs</b>
    - LinuxPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
- 
+   - NetworkPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
+   - SecurityPro-
 <h2>📑 Education </h2>
 
 - <b>B.S. in Cybersecurity and Information Assurance, Western Governor's University</b>
