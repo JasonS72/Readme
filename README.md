@@ -10,13 +10,11 @@
 - <b>Hack the Box Academy</b>
   - [Rated top 5%- I am currently working on the defensive path](https://github.com/H0UND3R5/HTB-Academy/blob/main/HTB%20Academy%20Student%20Transcript.pdf)
 - <b>My Azure Lab</b>
-  - [I am working with a buddy on a hybrid network using Azure and a homelab. Several posts to come documenting what we have done and plan to do. Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>My Cloud Project</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
- - <b>Testout Labs</b>
+  - [I am working with a buddy on a hybrid network using Azure and a homelab. Several posts to come documenting what we have done and plan to do.] (https://github.com/H0UND3R5/Azure-Lab)
+- <b>Testout Labs</b>
    - LinuxPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
-   - NetworkPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/LinuxPro.pdf)
-   - SecurityPro-
+   - NetworkPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/NetworkPro.pdf)
+   - SecurityPro- (https://github.com/H0UND3R5/Testout-Labs/blob/main/SecurityPro.pdf)
 <h2>📑 Education </h2>
 
 - <b>B.S. in Cybersecurity and Information Assurance, Western Governor's University</b>
